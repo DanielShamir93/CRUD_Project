@@ -1,0 +1,12 @@
+.header {
+    width: 50vw;
+
+    &-title {
+        font-size: 2rem;
+    }
+
+    &-buttons {
+        display: flex;
+        justify-content: space-between;
+    }
+}
